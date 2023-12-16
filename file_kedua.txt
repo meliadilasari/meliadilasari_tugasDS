@@ -1,0 +1,3 @@
+hai ini file kedua untuk tugas repository git saya.
+
+ini adalah line tambahan setelah file ini dibuat dan ditaruh di branch tugas_PR.
